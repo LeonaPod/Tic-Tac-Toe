@@ -54,7 +54,7 @@ def Draw_the_board():
     os.system('cls' if os.name == 'nt' else 'clear')
 
     print('\n\n\t LeonaPod')
-    print('\n\t Tis Tac Toe \n\n')
+    print('\n\t Tic Tac Toe \n\n')
 
     print('Player 1 (X)  -  Player 2 (O)' )
     print()
